@@ -1,4 +1,4 @@
-# `progress` [![GoDoc](https://godoc.org/github.com/machinebox/progress?status.png)](http://godoc.org/github.com/machinebox/progress) [![Build Status](https://travis-ci.org/machinebox/progress.svg?branch=master)](https://travis-ci.org/machinebox/progress) [![Go Report Card](https://goreportcard.com/badge/github.com/machinebox/progress)](https://goreportcard.com/report/github.com/machinebox/progress)
+# `progress`
 
 `io.Reader` and `io.Writer` with progress and remaining time estimation.
 

@@ -11,7 +11,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/machinebox/progress"
+	"github.com/chanced/progress"
 	"github.com/pkg/errors"
 )
 
